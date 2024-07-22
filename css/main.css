@@ -1,0 +1,14 @@
+.header{
+    text-align: center;
+    background-color: whitesmoke;
+}
+i{
+    color: black;
+} 
+.about{
+    float:left;
+    width: 30%; 
+}
+.clear1{
+    clear: left;
+}
